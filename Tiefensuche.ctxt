@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=index\ knoten
+comment0.target=void\ pushNode(int,\ Knoten)
+comment1.params=maxKnoten
+comment1.target=Tiefensuche(int)
+comment2.params=knotenIdx
+comment2.target=void\ tiefensucheSchritt(int)
+comment3.params=startKnotenIdx
+comment3.target=void\ tiefensuche(int)
+comment4.params=
+comment4.target=int[][]\ matrix()
+comment5.params=startKnotenIndex\ zielKnotenIndex
+comment5.target=void\ wegeSuchen(int,\ int)
+comment6.params=aktKnotenIndex\ zielKnotenIndex\ pfad\ laenge
+comment6.target=void\ ablaufen(int,\ int,\ java.lang.String,\ int)
+numComments=7

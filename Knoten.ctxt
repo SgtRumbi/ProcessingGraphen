@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Knoten.Daten\ datenLiefern()
+comment1.params=ortsname
+comment1.target=Knoten(java.lang.String)
+comment2.params=name\ x\ y
+comment2.target=Knoten(java.lang.String,\ int,\ int)
+comment3.params=name\ x\ y
+comment3.target=Knoten(java.lang.String,\ float,\ float)
+numComments=4

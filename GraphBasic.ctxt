@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ settings()
+comment1.params=
+comment1.target=void\ setup()
+comment10.params=
+comment10.target=void\ keyPressed()
+comment10.text=\ public\ void\ mark(int[]\ nodes)\ {\r\n\ \ \ \ \ \ \ \ for(int\ i\ \=\ 0;\ i\ <\ nodes.length\ -\ 1;\ ++i)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ adjazenzmatrix[nodes[i]][nodes[i\ +\ 1]]\ \=\ 2;\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment11.params=
+comment11.target=void\ mouseDragged()
+comment12.params=
+comment12.target=void\ mousePressed()
+comment13.params=
+comment13.target=void\ draw()
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=void\ matrixAusgeben()
+comment4.params=
+comment4.target=void\ tiefensucheSchritt()
+comment5.params=startKnotenIndex
+comment5.target=void\ tiefensuche(int)
+comment6.params=
+comment6.target=void\ breitensucheSchritt()
+comment7.params=startKnotenIndex
+comment7.target=void\ breitensuche(int)
+comment8.params=startKnotenIndex\ zielKnotenIndex
+comment8.target=void\ wegeSuchen(int,\ int)
+comment9.params=aktKnotenIndex\ zielKnotenIndex\ pfad\ laenge
+comment9.target=void\ ablaufen(int,\ int,\ java.lang.String,\ int)
+numComments=14

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=knoten\ matrix
+comment0.target=void\ cacheGraph(Knoten[],\ int[][])
+comment1.params=entryPoint
+comment1.target=void\ start(int)
+comment2.params=
+comment2.target=void\ step()
+comment3.params=knoten
+comment3.target=void\ setKnoten(Knoten[])
+comment4.params=matrix
+comment4.target=void\ setMatrix(int[][])
+comment5.params=
+comment5.target=Knoten[]\ gibKnoten()
+comment6.params=
+comment6.target=int[][]\ gibMatrix()
+comment7.params=
+comment7.target=boolean\ isStarted()
+numComments=8
