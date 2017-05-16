@@ -2,7 +2,7 @@ import processing.core.PApplet;
 
 import javax.swing.*;
 
-public class GraphBasic extends PApplet{
+public class GraphBasic extends PApplet {
     //Zu Lehrzwecken werden alle Attribute auf public gesetzt
     //Darstellungsattribute
     public boolean showInfos = true;
@@ -137,6 +137,7 @@ public class GraphBasic extends PApplet{
                     // wegeSuchen(startIndex, zielIndex);
                     DijkstraWaySearch dws = new DijkstraWaySearch(knoten, adjazenzmatrix);
                     dws.start(startIndex, zielIndex);
+                    this.knoten = dws.gibKnoten();
                 }
             }
 

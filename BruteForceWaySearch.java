@@ -1,7 +1,7 @@
 /**
  * Created by js on 15.05.17.
  */
-public class BruteForceWaySearch extends GraphOperation<Knoten> {
+public final class BruteForceWaySearch extends GraphOperation<Knoten> {
     public BruteForceWaySearch(Knoten[] knoten, int[][] adjazenzMatrix) {
         super.cacheGraph(knoten, adjazenzMatrix);
     }
